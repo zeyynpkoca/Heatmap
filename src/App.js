@@ -1,7 +1,7 @@
 import React from 'react';
 import DynamicHeatmap from './DynamicHeatmap';
 
-function App() {//test ediyorum
+function App() {
   return (
     <div className="App">
       <DynamicHeatmap />
