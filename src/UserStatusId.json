@@ -1,0 +1,22 @@
+[
+    {
+     "UserStatusId": 1,
+     "name": "ISTB"
+    },
+    {
+     "UserStatusId": 2,
+     "name": "YRTD"
+    },
+    {
+     "UserStatusId": 3,
+     "name": "ONAY"
+    },
+    {
+     "UserStatusId": 4,
+     "name": "YRTD RED3"
+    },
+    {
+     "UserStatusId": 5,
+     "name": "DEFAULT"
+    }
+   ]

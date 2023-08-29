@@ -1,0 +1,42 @@
+[
+    {
+     "SystemStatusId": 12,
+     "name": "BLDA",
+     "description": "OBT'DE(ONAY BEKLENIYOR)"
+    },
+    {
+     "SystemStatusId": 13,
+     "name": "BISL",
+     "description": "ÜBK'DA (SIPARIS BEKLIYOR)"
+    },
+    {
+     "SystemStatusId": 14,
+     "name": "BISL STYN",
+     "description": "ISLENDI (SIPARIS VERILDI)"
+    },
+    {
+     "SystemStatusId": 15,
+     "name": "BTAM",
+     "description": "BILDIRIM RED"
+    },
+    {
+     "SystemStatusId": 16,
+     "name": "BTAM STYN",
+     "description": "BILDIRIM TAMAMLANDI"
+    },
+    {
+     "SystemStatusId": 17,
+     "name": "BISL STYN TGRV",
+     "description": "TAMAMLANAN GÖREVLER, BILDIRIM AÇIK"
+    },
+    {
+     "SystemStatusId": 19,
+     "name": "AGRV BISL STYN",
+     "description": "AÇIK GÖREVLER, BILDIRIM AÇIK"
+    },
+    {
+     "SystemStatusId": 20,
+     "name": "Default",
+     "description": "Bilinmeyen"
+    }
+   ]

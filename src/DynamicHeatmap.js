@@ -1,7 +1,19 @@
 import React from 'react';
-import { GoogleMap, useJsApiLoader, Marker, OverlayView} from '@react-google-maps/api';
-import pipelineData from './pipelineData.json';
-import jsonData from './marker_data.json';
+import { GoogleMap, useJsApiLoader, Marker, OverlayView, HeatmapLayer } from '@react-google-maps/api';
+//import HeatmapLayer from "react-google-maps/lib/components/visualization/HeatmapLayer";
+import MapSectionId from './MapSectionId.json';
+
+MapSectionId.forEach(item => {
+  const latRad = 2 * Math.atan(Math.exp(item.Latitude / 6378137)) - Math.PI / 2;
+  const latDeg = (latRad * 180) / Math.PI;
+  const lonDeg = (item.Longitude / 20037508.34) * 180;
+
+  item.Latitude = latDeg;
+  item.Longitude = lonDeg;
+});
+
+console.log(MapSectionId);
+
 
 const containerStyle = {
   width: '900px',
@@ -20,7 +32,8 @@ const mapOptions = {
 function DynamicHeatmap() {
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: "AIzaSyCD3JvjrSZOLq_rxUmMeC3UFOK_Mog_jug" // Google Maps API anahtarını buraya ekleyin
+    googleMapsApiKey: "AIzaSyCD3JvjrSZOLq_rxUmMeC3UFOK_Mog_jug", // Google Maps API anahtarını buraya ekleyin
+    libraries: ['visualization']
   });
   const onMapLoad = React.useCallback(function callback(map) {
     // Harita yüklendikten sonra yapılacak işlemler
@@ -35,20 +48,19 @@ function DynamicHeatmap() {
 
   // Calculating job count on pipelines
   const systemStatusCounts = {}; // Her MapSectionId için sayaçları depolayacak nesne
-
-  jsonData.forEach(item => {
-    pipelineData.forEach(pipe => {
-      if (item.MapSectionId === pipe.MapSectionId) {
+  MapSectionId.forEach(pipe => {
         if (!systemStatusCounts[pipe.MapSectionId]) {
           systemStatusCounts[pipe.MapSectionId] = 0;
         }
         systemStatusCounts[pipe.MapSectionId]++;
       }
-    });
-  });
-
+    );
+    const heatmapData = 
+    [
+      new window.google.maps.LatLng(38.788542, 26.939462),
+    ]
   // We make setup of pipelines using pipeline data(lat lng and name) through heat map
-  const markers = pipelineData.map(item => ({
+  const markers = MapSectionId.map(item => ({
     position: {
       lat: item.Latitude,
       lng: item.Longitude
@@ -66,13 +78,15 @@ function DynamicHeatmap() {
   };
   return (
     <GoogleMap
+      heatmapLibrary={true}    
       mapContainerStyle={containerStyle}
       center={initialCenter}
       zoom={initialZoom} // Harita seçeneklerini burada belirtiyoruz
       onUnmount={onUnmount}
       options={mapOptions}
     >
-      {markers.map((marker, index) => {
+      <HeatmapLayer data={heatmapData} options= {{radius: "40"}} />
+      {/* {markers.map((marker, index) => {
         let markerColor = 'green';
 
         const systemStatusCount = systemStatusCounts[marker.mapSectionId];
@@ -81,7 +95,7 @@ function DynamicHeatmap() {
         } else if (systemStatusCount >= 5) {
           markerColor = 'red';
         }
-
+        
         return (
           <React.Fragment key={index}>
           <Marker
@@ -127,7 +141,7 @@ function DynamicHeatmap() {
             </OverlayView>
           </React.Fragment>
         );
-      })}
+      })} */}
     </GoogleMap>
   );
 }

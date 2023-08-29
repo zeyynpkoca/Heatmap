@@ -1,0 +1,370 @@
+[
+    {
+     "PipelineClassesId": 1,
+     "name": "MS"
+    },
+    {
+     "PipelineClassesId": 9,
+     "name": "LS"
+    },
+    {
+     "PipelineClassesId": 10,
+     "name": "HS"
+    },
+    {
+     "PipelineClassesId": 11,
+     "name": "Default"
+    },
+    {
+     "PipelineClassesId": 12,
+     "name": "MEG"
+    },
+    {
+     "PipelineClassesId": 13,
+     "name": "DEG"
+    },
+    {
+     "PipelineClassesId": 14,
+     "name": "CAF"
+    },
+    {
+     "PipelineClassesId": 15,
+     "name": "BE"
+    },
+    {
+     "PipelineClassesId": 16,
+     "name": "PYL"
+    },
+    {
+     "PipelineClassesId": 17,
+     "name": "OYL"
+    },
+    {
+     "PipelineClassesId": 18,
+     "name": "SRN"
+    },
+    {
+     "PipelineClassesId": 19,
+     "name": "PGY"
+    },
+    {
+     "PipelineClassesId": 20,
+     "name": "ET"
+    },
+    {
+     "PipelineClassesId": 21,
+     "name": "LPG"
+    },
+    {
+     "PipelineClassesId": 22,
+     "name": "BU"
+    },
+    {
+     "PipelineClassesId": 23,
+     "name": "PRP"
+    },
+    {
+     "PipelineClassesId": 24,
+     "name": "ACN"
+    },
+    {
+     "PipelineClassesId": 25,
+     "name": "ACA"
+    },
+    {
+     "PipelineClassesId": 26,
+     "name": "HE"
+    },
+    {
+     "PipelineClassesId": 27,
+     "name": "CAL"
+    },
+    {
+     "PipelineClassesId": 28,
+     "name": "PPC"
+    },
+    {
+     "PipelineClassesId": 29,
+     "name": "PRE"
+    },
+    {
+     "PipelineClassesId": 30,
+     "name": "PRN"
+    },
+    {
+     "PipelineClassesId": 31,
+     "name": "PUE"
+    },
+    {
+     "PipelineClassesId": 32,
+     "name": "HEP"
+    },
+    {
+     "PipelineClassesId": 33,
+     "name": "NH"
+    },
+    {
+     "PipelineClassesId": 34,
+     "name": "HV"
+    },
+    {
+     "PipelineClassesId": 35,
+     "name": "FOY"
+    },
+    {
+     "PipelineClassesId": 36,
+     "name": "VCM"
+    },
+    {
+     "PipelineClassesId": 37,
+     "name": "CO"
+    },
+    {
+     "PipelineClassesId": 38,
+     "name": "WW"
+    },
+    {
+     "PipelineClassesId": 39,
+     "name": "NI"
+    },
+    {
+     "PipelineClassesId": 40,
+     "name": "SCT"
+    },
+    {
+     "PipelineClassesId": 41,
+     "name": "DW"
+    },
+    {
+     "PipelineClassesId": 42,
+     "name": "IA"
+    },
+    {
+     "PipelineClassesId": 43,
+     "name": "PA"
+    },
+    {
+     "PipelineClassesId": 44,
+     "name": "CL"
+    },
+    {
+     "PipelineClassesId": 45,
+     "name": "OX"
+    },
+    {
+     "PipelineClassesId": 46,
+     "name": "RG"
+    },
+    {
+     "PipelineClassesId": 47,
+     "name": "SA"
+    },
+    {
+     "PipelineClassesId": 48,
+     "name": "FW"
+    },
+    {
+     "PipelineClassesId": 49,
+     "name": "DM"
+    },
+    {
+     "PipelineClassesId": 50,
+     "name": "BW"
+    },
+    {
+     "PipelineClassesId": 51,
+     "name": "EDC"
+    },
+    {
+     "PipelineClassesId": 52,
+     "name": "EO"
+    },
+    {
+     "PipelineClassesId": 53,
+     "name": "FO"
+    },
+    {
+     "PipelineClassesId": 54,
+     "name": "HA"
+    },
+    {
+     "PipelineClassesId": 55,
+     "name": "FG"
+    },
+    {
+     "PipelineClassesId": 56,
+     "name": "HHS"
+    },
+    {
+     "PipelineClassesId": 57,
+     "name": "HY"
+    },
+    {
+     "PipelineClassesId": 58,
+     "name": "HYR"
+    },
+    {
+     "PipelineClassesId": 59,
+     "name": "LN"
+    },
+    {
+     "PipelineClassesId": 60,
+     "name": "RW"
+    },
+    {
+     "PipelineClassesId": 61,
+     "name": "OWS"
+    },
+    {
+     "PipelineClassesId": 62,
+     "name": "PW"
+    },
+    {
+     "PipelineClassesId": 63,
+     "name": "MHS"
+    },
+    {
+     "PipelineClassesId": 64,
+     "name": "OWW"
+    },
+    {
+     "PipelineClassesId": 65,
+     "name": "TO"
+    },
+    {
+     "PipelineClassesId": 66,
+     "name": "VFL"
+    },
+    {
+     "PipelineClassesId": 67,
+     "name": "MO"
+    },
+    {
+     "PipelineClassesId": 68,
+     "name": "NG"
+    },
+    {
+     "PipelineClassesId": 69,
+     "name": "NHF"
+    },
+    {
+     "PipelineClassesId": 70,
+     "name": "CWR"
+    },
+    {
+     "PipelineClassesId": 71,
+     "name": "CWS"
+    },
+    {
+     "PipelineClassesId": 72,
+     "name": "BD"
+    },
+    {
+     "PipelineClassesId": 73,
+     "name": "CWW"
+    },
+    {
+     "PipelineClassesId": 74,
+     "name": "GS"
+    },
+    {
+     "PipelineClassesId": 75,
+     "name": "PE"
+    },
+    {
+     "PipelineClassesId": 76,
+     "name": "WO"
+    },
+    {
+     "PipelineClassesId": 77,
+     "name": "XHS"
+    },
+    {
+     "PipelineClassesId": 78,
+     "name": "HEG"
+    },
+    {
+     "PipelineClassesId": 79,
+     "name": "C3"
+    },
+    {
+     "PipelineClassesId": 80,
+     "name": "C4"
+    },
+    {
+     "PipelineClassesId": 81,
+     "name": "CAS"
+    },
+    {
+     "PipelineClassesId": 82,
+     "name": "CLARIFIED OIL"
+    },
+    {
+     "PipelineClassesId": 83,
+     "name": "CW"
+    },
+    {
+     "PipelineClassesId": 84,
+     "name": "HN"
+    },
+    {
+     "PipelineClassesId": 85,
+     "name": "HPC"
+    },
+    {
+     "PipelineClassesId": 86,
+     "name": "HSRN"
+    },
+    {
+     "PipelineClassesId": 87,
+     "name": "FRSRN"
+    },
+    {
+     "PipelineClassesId": 88,
+     "name": "IH"
+    },
+    {
+     "PipelineClassesId": 89,
+     "name": "MET"
+    },
+    {
+     "PipelineClassesId": 90,
+     "name": "NAOH"
+    },
+    {
+     "PipelineClassesId": 91,
+     "name": "PF"
+    },
+    {
+     "PipelineClassesId": 92,
+     "name": "PGR"
+    },
+    {
+     "PipelineClassesId": 93,
+     "name": "PKE"
+    },
+    {
+     "PipelineClassesId": 94,
+     "name": "KSP"
+    },
+    {
+     "PipelineClassesId": 95,
+     "name": "PSP"
+    },
+    {
+     "PipelineClassesId": 96,
+     "name": "PYG"
+    },
+    {
+     "PipelineClassesId": 97,
+     "name": "SC"
+    },
+    {
+     "PipelineClassesId": 98,
+     "name": "TKE"
+    },
+    {
+     "PipelineClassesId": 99,
+     "name": "WSRN"
+    }
+   ]
