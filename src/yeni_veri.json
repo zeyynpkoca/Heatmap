@@ -1,0 +1,1160 @@
+[
+  {
+    "MapSectionId": 1,
+    "name": "OB- 901",
+    "Longitude": 26.93946229194119,
+    "Latitude": 38.7885482623541
+  },
+  {
+    "MapSectionId": 3,
+    "name": "OB- 120",
+    "Longitude": 26.93846203522144,
+    "Latitude": 38.786490617115334
+  },
+  {
+    "MapSectionId": 4,
+    "name": "S BINA",
+    "Longitude": 26.940648717860384,
+    "Latitude": 38.779877160644425
+  },
+  {
+    "MapSectionId": 6,
+    "name": "Default",
+    "Longitude": 26.929200426535697,
+    "Latitude": 38.793129541138285
+  },
+  {
+    "MapSectionId": 7,
+    "name": "OB- 600",
+    "Longitude": 26.93112513692615,
+    "Latitude": 38.78334240684061
+  },
+  {
+    "MapSectionId": 9,
+    "name": "OB-102",
+    "Longitude": 26.935449851656397,
+    "Latitude": 38.78431082145733
+  },
+  {
+    "MapSectionId": 10,
+    "name": "OB- 162",
+    "Longitude": 26.934908750446724,
+    "Latitude": 38.78124996205424
+  },
+  {
+    "MapSectionId": 21,
+    "name": "OB- 102",
+    "Longitude": 26.934543984923938,
+    "Latitude": 38.78154326204643
+  },
+  {
+    "MapSectionId": 22,
+    "name": "OB- 103",
+    "Longitude": 26.935066957691266,
+    "Latitude": 38.78223432840518
+  },
+  {
+    "MapSectionId": 23,
+    "name": "OB- 104",
+    "Longitude": 26.935415550691282,
+    "Latitude": 38.782599044904494
+  },
+  {
+    "MapSectionId": 24,
+    "name": "OB- 105",
+    "Longitude": 26.935585798095463,
+    "Latitude": 38.782789161179764
+  },
+  {
+    "MapSectionId": 25,
+    "name": "OB- 106",
+    "Longitude": 26.935692101837937,
+    "Latitude": 38.782766307624016
+  },
+  {
+    "MapSectionId": 26,
+    "name": "OB- 107",
+    "Longitude": 26.935683006926048,
+    "Latitude": 38.782929403699136
+  },
+  {
+    "MapSectionId": 27,
+    "name": "OB- 108",
+    "Longitude": 26.93618840651957,
+    "Latitude": 38.78362518327965
+  },
+  {
+    "MapSectionId": 28,
+    "name": "OB- 109",
+    "Longitude": 26.93648358232086,
+    "Latitude": 38.78396500626153
+  },
+  {
+    "MapSectionId": 29,
+    "name": "OB- 110",
+    "Longitude": 26.936655707200043,
+    "Latitude": 38.7840829114865
+  },
+  {
+    "MapSectionId": 30,
+    "name": "OB- 111",
+    "Longitude": 26.936974382041726,
+    "Latitude": 38.78442385615966
+  },
+  {
+    "MapSectionId": 31,
+    "name": "OB- 112",
+    "Longitude": 26.937207076807383,
+    "Latitude": 38.78466753163448
+  },
+  {
+    "MapSectionId": 32,
+    "name": "OB- 113",
+    "Longitude": 26.937336761306742,
+    "Latitude": 38.78492589662983
+  },
+  {
+    "MapSectionId": 33,
+    "name": "OB- 114",
+    "Longitude": 26.937512061899866,
+    "Latitude": 38.785174610956744
+  },
+  {
+    "MapSectionId": 34,
+    "name": "OB- 115",
+    "Longitude": 26.937706517870865,
+    "Latitude": 38.78538818127425
+  },
+  {
+    "MapSectionId": 35,
+    "name": "OB- 116",
+    "Longitude": 26.93798444664348,
+    "Latitude": 38.78549644399595
+  },
+  {
+    "MapSectionId": 36,
+    "name": "OB- 117",
+    "Longitude": 26.93767403481633,
+    "Latitude": 38.78562548196597
+  },
+  {
+    "MapSectionId": 37,
+    "name": "OB- 118",
+    "Longitude": 26.937973996660357,
+    "Latitude": 38.78585396423064
+  },
+  {
+    "MapSectionId": 38,
+    "name": "OB- 119",
+    "Longitude": 26.938211087874624,
+    "Latitude": 38.78616594218121
+  },
+  {
+    "MapSectionId": 40,
+    "name": "OB- 121",
+    "Longitude": 26.938629154282445,
+    "Latitude": 38.78671378972693
+  },
+  {
+    "MapSectionId": 41,
+    "name": "OB- 122",
+    "Longitude": 26.938730800854405,
+    "Latitude": 38.786857892410104
+  },
+  {
+    "MapSectionId": 42,
+    "name": "OB- 123",
+    "Longitude": 26.93909181741852,
+    "Latitude": 38.78724240988542
+  },
+  {
+    "MapSectionId": 43,
+    "name": "OB- 124",
+    "Longitude": 26.939201546195708,
+    "Latitude": 38.78736596148012
+  },
+  {
+    "MapSectionId": 44,
+    "name": "OB- 125",
+    "Longitude": 26.939390618745474,
+    "Latitude": 38.787571983355896
+  },
+  {
+    "MapSectionId": 45,
+    "name": "OB- 126",
+    "Longitude": 26.939491593649432,
+    "Latitude": 38.787730095945435
+  },
+  {
+    "MapSectionId": 46,
+    "name": "OB- 127",
+    "Longitude": 26.939547407038866,
+    "Latitude": 38.787836515195124
+  },
+  {
+    "MapSectionId": 47,
+    "name": "OB- 128",
+    "Longitude": 26.93974863921675,
+    "Latitude": 38.78811418340183
+  },
+  {
+    "MapSectionId": 48,
+    "name": "OB- 129",
+    "Longitude": 26.940463101664736,
+    "Latitude": 38.78959813916478
+  },
+  {
+    "MapSectionId": 49,
+    "name": "OB- 130",
+    "Longitude": 26.93992690693178,
+    "Latitude": 38.78831269558789
+  },
+  {
+    "MapSectionId": 50,
+    "name": "OB- 131",
+    "Longitude": 26.940006861363464,
+    "Latitude": 38.78843059397536
+  },
+  {
+    "MapSectionId": 51,
+    "name": "OB- 132",
+    "Longitude": 26.940356172046602,
+    "Latitude": 38.78885963308714
+  },
+  {
+    "MapSectionId": 52,
+    "name": "OB- 133",
+    "Longitude": 26.94092756159739,
+    "Latitude": 38.7895432494207
+  },
+  {
+    "MapSectionId": 53,
+    "name": "OB- 134",
+    "Longitude": 26.94126454255048,
+    "Latitude": 38.78982654660713
+  },
+  {
+    "MapSectionId": 54,
+    "name": "OB- 135",
+    "Longitude": 26.941475680383455,
+    "Latitude": 38.79020691707508
+  },
+  {
+    "MapSectionId": 55,
+    "name": "OB- 136",
+    "Longitude": 26.939538787556295,
+    "Latitude": 38.78843139093921
+  },
+  {
+    "MapSectionId": 56,
+    "name": "OB- 137",
+    "Longitude": 26.94181052661208,
+    "Latitude": 38.790291162042756
+  },
+  {
+    "MapSectionId": 57,
+    "name": "OB- 138",
+    "Longitude": 26.941555840467082,
+    "Latitude": 38.79058674336833
+  },
+  {
+    "MapSectionId": 58,
+    "name": "OB- 139",
+    "Longitude": 26.941888440328803,
+    "Latitude": 38.790540809245684
+  },
+  {
+    "MapSectionId": 59,
+    "name": "OB- 140",
+    "Longitude": 26.942239730581726,
+    "Latitude": 38.79084343694647
+  },
+  {
+    "MapSectionId": 60,
+    "name": "OB- 141",
+    "Longitude": 26.942232850594536,
+    "Latitude": 38.791023567925215
+  },
+  {
+    "MapSectionId": 61,
+    "name": "OB- 142",
+    "Longitude": 26.942636780084026,
+    "Latitude": 38.791530742939074
+  },
+  {
+    "MapSectionId": 62,
+    "name": "OB- 143",
+    "Longitude": 26.94278125071974,
+    "Latitude": 38.79168474139368
+  },
+  {
+    "MapSectionId": 63,
+    "name": "OB- 144",
+    "Longitude": 26.943229873087134,
+    "Latitude": 38.79218003146459
+  },
+  {
+    "MapSectionId": 64,
+    "name": "OB- 145",
+    "Longitude": 26.94353637307273,
+    "Latitude": 38.79268225545113
+  },
+  {
+    "MapSectionId": 65,
+    "name": "OB- 146",
+    "Longitude": 26.944153385996078,
+    "Latitude": 38.792798470161806
+  },
+  {
+    "MapSectionId": 66,
+    "name": "OB- 147",
+    "Longitude": 26.944468676894864,
+    "Latitude": 38.792563647327285
+  },
+  {
+    "MapSectionId": 67,
+    "name": "OB- 148",
+    "Longitude": 26.945377395438697,
+    "Latitude": 38.79238953769235
+  },
+  {
+    "MapSectionId": 68,
+    "name": "OB- 150",
+    "Longitude": 26.944799260109924,
+    "Latitude": 38.79297668457306
+  },
+  {
+    "MapSectionId": 69,
+    "name": "OB- 151",
+    "Longitude": 26.945240354952496,
+    "Latitude": 38.79365307697782
+  },
+  {
+    "MapSectionId": 70,
+    "name": "OB- 152",
+    "Longitude": 26.94616218295506,
+    "Latitude": 38.79474624371814
+  },
+  {
+    "MapSectionId": 71,
+    "name": "OB- 155",
+    "Longitude": 26.94615391250625,
+    "Latitude": 38.795318396804085
+  },
+  {
+    "MapSectionId": 72,
+    "name": "OB- 156",
+    "Longitude": 26.945477215693554,
+    "Latitude": 38.79609197963491
+  },
+  {
+    "MapSectionId": 73,
+    "name": "OB- ETILEN AROM BACA SAHASI",
+    "Longitude": 26.93869706287219,
+    "Latitude": 38.7891890410717
+  },
+  {
+    "MapSectionId": 74,
+    "name": "OB- 701",
+    "Longitude": 26.946986500094933,
+    "Latitude": 38.7944640015176
+  },
+  {
+    "MapSectionId": 75,
+    "name": "OB- 702",
+    "Longitude": 26.94773615204714,
+    "Latitude": 38.79378854950013
+  },
+  {
+    "MapSectionId": 76,
+    "name": "OB- 703",
+    "Longitude": 26.9491858643633,
+    "Latitude": 38.7928845693382
+  },
+  {
+    "MapSectionId": 77,
+    "name": "OB- 704",
+    "Longitude": 26.948536410284554,
+    "Latitude": 38.79313198095425
+  },
+  {
+    "MapSectionId": 78,
+    "name": "OB- 705",
+    "Longitude": 26.947634085010446,
+    "Latitude": 38.791783161963906
+  },
+  {
+    "MapSectionId": 79,
+    "name": "OB- 706",
+    "Longitude": 26.948574655843714,
+    "Latitude": 38.7913426473034
+  },
+  {
+    "MapSectionId": 80,
+    "name": "OB- 707",
+    "Longitude": 26.948787902272475,
+    "Latitude": 38.79109469825816
+  },
+  {
+    "MapSectionId": 81,
+    "name": "OB- 708",
+    "Longitude": 26.949771714266355,
+    "Latitude": 38.7926591320056
+  },
+  {
+    "MapSectionId": 82,
+    "name": "OB- 709",
+    "Longitude": 26.951088151817554,
+    "Latitude": 38.792135675804516
+  },
+  {
+    "MapSectionId": 83,
+    "name": "OB- 710",
+    "Longitude": 26.952557327453977,
+    "Latitude": 38.79178718937791
+  },
+  {
+    "MapSectionId": 84,
+    "name": "OB- 711",
+    "Longitude": 26.953723326481313,
+    "Latitude": 38.79152870020353
+  },
+  {
+    "MapSectionId": 85,
+    "name": "OB- 712",
+    "Longitude": 26.95433742223806,
+    "Latitude": 38.791383765849886
+  },
+  {
+    "MapSectionId": 86,
+    "name": "OB- 713",
+    "Longitude": 26.954366374561836,
+    "Latitude": 38.7910894577903
+  },
+  {
+    "MapSectionId": 87,
+    "name": "OB- 714",
+    "Longitude": 26.949609427672392,
+    "Latitude": 38.793434406653326
+  },
+  {
+    "MapSectionId": 88,
+    "name": "OB- D210",
+    "Longitude": 26.94891858136378,
+    "Latitude": 38.794892175118704
+  },
+  {
+    "MapSectionId": 89,
+    "name": "OB- 1000",
+    "Longitude": 26.93866392505612,
+    "Latitude": 38.785033390353505
+  },
+  {
+    "MapSectionId": 90,
+    "name": "OB- 902",
+    "Longitude": 26.939172799866586,
+    "Latitude": 38.788688222905215
+  },
+  {
+    "MapSectionId": 91,
+    "name": "OB- 903",
+    "Longitude": 26.938854252046774,
+    "Latitude": 38.78885240821788
+  },
+  {
+    "MapSectionId": 92,
+    "name": "OB- 401",
+    "Longitude": 26.939863471987813,
+    "Latitude": 38.78721376793857
+  },
+  {
+    "MapSectionId": 93,
+    "name": "OB- 402",
+    "Longitude": 26.940552451203626,
+    "Latitude": 38.78684711805599
+  },
+  {
+    "MapSectionId": 94,
+    "name": "OB- 403",
+    "Longitude": 26.94160115312118,
+    "Latitude": 38.786347346991555
+  },
+  {
+    "MapSectionId": 95,
+    "name": "OB- 404",
+    "Longitude": 26.942352400753787,
+    "Latitude": 38.78596628119486
+  },
+  {
+    "MapSectionId": 96,
+    "name": "OB- 405",
+    "Longitude": 26.943512934509712,
+    "Latitude": 38.78537252965833
+  },
+  {
+    "MapSectionId": 97,
+    "name": "OB- 501",
+    "Longitude": 26.93196093108484,
+    "Latitude": 38.791126905638244
+  },
+  {
+    "MapSectionId": 98,
+    "name": "OB- 502",
+    "Longitude": 26.931169661518616,
+    "Latitude": 38.791513760574446
+  },
+  {
+    "MapSectionId": 99,
+    "name": "OB- 503",
+    "Longitude": 26.93039048851204,
+    "Latitude": 38.79180054112779
+  },
+  {
+    "MapSectionId": 100,
+    "name": "OB- 504",
+    "Longitude": 26.92955469922473,
+    "Latitude": 38.79221084673133
+  },
+  {
+    "MapSectionId": 101,
+    "name": "OB- 801",
+    "Longitude": 26.92911826330331,
+    "Latitude": 38.78766237435515
+  },
+  {
+    "MapSectionId": 102,
+    "name": "OB- 802",
+    "Longitude": 26.928796613109085,
+    "Latitude": 38.78790897782541
+  },
+  {
+    "MapSectionId": 103,
+    "name": "OB- 803",
+    "Longitude": 26.928266212208868,
+    "Latitude": 38.78803388492643
+  },
+  {
+    "MapSectionId": 104,
+    "name": "OB- 804",
+    "Longitude": 26.92784486420285,
+    "Latitude": 38.78825930448533
+  },
+  {
+    "MapSectionId": 105,
+    "name": "OB- 805",
+    "Longitude": 26.927940491999436,
+    "Latitude": 38.78849864496852
+  },
+  {
+    "MapSectionId": 106,
+    "name": "OB- 806",
+    "Longitude": 26.927444277584208,
+    "Latitude": 38.78877351503128
+  },
+  {
+    "MapSectionId": 107,
+    "name": "OB- 807",
+    "Longitude": 26.92700838822969,
+    "Latitude": 38.7890010910665
+  },
+  {
+    "MapSectionId": 108,
+    "name": "OB- 808",
+    "Longitude": 26.92868848149461,
+    "Latitude": 38.79117240687758
+  },
+  {
+    "MapSectionId": 109,
+    "name": "OB- 809",
+    "Longitude": 26.927409718812484,
+    "Latitude": 38.78961389886905
+  },
+  {
+    "MapSectionId": 110,
+    "name": "OB- 810",
+    "Longitude": 26.9266027817655,
+    "Latitude": 38.788854775772734
+  },
+  {
+    "MapSectionId": 111,
+    "name": "OB- 811",
+    "Longitude": 26.926279795199907,
+    "Latitude": 38.78841082472417
+  },
+  {
+    "MapSectionId": 112,
+    "name": "OB- 812",
+    "Longitude": 26.925724430495055,
+    "Latitude": 38.78780730664566
+  },
+  {
+    "MapSectionId": 113,
+    "name": "OB- 201",
+    "Longitude": 26.938701540908124,
+    "Latitude": 38.78746456202834
+  },
+  {
+    "MapSectionId": 114,
+    "name": "OB- 202",
+    "Longitude": 26.93804929641992,
+    "Latitude": 38.78777442843016
+  },
+  {
+    "MapSectionId": 115,
+    "name": "OB- 203",
+    "Longitude": 26.93767648081153,
+    "Latitude": 38.787925223521945
+  },
+  {
+    "MapSectionId": 116,
+    "name": "OB- 204",
+    "Longitude": 26.937398720618283,
+    "Latitude": 38.78807859379919
+  },
+  {
+    "MapSectionId": 117,
+    "name": "OB- 205",
+    "Longitude": 26.936928152014943,
+    "Latitude": 38.788351947801786
+  },
+  {
+    "MapSectionId": 118,
+    "name": "OB- 206",
+    "Longitude": 26.93594501029712,
+    "Latitude": 38.78883871574563
+  },
+  {
+    "MapSectionId": 119,
+    "name": "OB- 207",
+    "Longitude": 26.9353240648292,
+    "Latitude": 38.7892207395041
+  },
+  {
+    "MapSectionId": 120,
+    "name": "OB- 208",
+    "Longitude": 26.934864327283215,
+    "Latitude": 38.789400909862344
+  },
+  {
+    "MapSectionId": 121,
+    "name": "OB- 209",
+    "Longitude": 26.934025549078545,
+    "Latitude": 38.7898243208154
+  },
+  {
+    "MapSectionId": 122,
+    "name": "OB- 210",
+    "Longitude": 26.93338153921011,
+    "Latitude": 38.79012014697753
+  },
+  {
+    "MapSectionId": 123,
+    "name": "OB- 211",
+    "Longitude": 26.93262232121406,
+    "Latitude": 38.79046276725724
+  },
+  {
+    "MapSectionId": 124,
+    "name": "OB- 216",
+    "Longitude": 26.936591704667418,
+    "Latitude": 38.789085255760156
+  },
+  {
+    "MapSectionId": 125,
+    "name": "OB- 217",
+    "Longitude": 26.9350168135819,
+    "Latitude": 38.789817242504945
+  },
+  {
+    "MapSectionId": 126,
+    "name": "OB- 218",
+    "Longitude": 26.933326145281008,
+    "Latitude": 38.79090896653413
+  },
+  {
+    "MapSectionId": 127,
+    "name": "OB- 301",
+    "Longitude": 26.92792371477007,
+    "Latitude": 38.78521298287483
+  },
+  {
+    "MapSectionId": 128,
+    "name": "OB- 302",
+    "Longitude": 26.928075246470865,
+    "Latitude": 38.78538746951105
+  },
+  {
+    "MapSectionId": 129,
+    "name": "OB- 303",
+    "Longitude": 26.9282471904748,
+    "Latitude": 38.78556688735787
+  },
+  {
+    "MapSectionId": 130,
+    "name": "OB- 304",
+    "Longitude": 26.928597388775994,
+    "Latitude": 38.78594510500431
+  },
+  {
+    "MapSectionId": 131,
+    "name": "OB- 305",
+    "Longitude": 26.928751448145565,
+    "Latitude": 38.786307282371844
+  },
+  {
+    "MapSectionId": 132,
+    "name": "OB- 306",
+    "Longitude": 26.928901151368812,
+    "Latitude": 38.78660864968865
+  },
+  {
+    "MapSectionId": 133,
+    "name": "OB- 307",
+    "Longitude": 26.92931766076296,
+    "Latitude": 38.78712164924878
+  },
+  {
+    "MapSectionId": 134,
+    "name": "OB- 310",
+    "Longitude": 26.929541803063962,
+    "Latitude": 38.787448097256956
+  },
+  {
+    "MapSectionId": 135,
+    "name": "OB- 308",
+    "Longitude": 26.929219681460822,
+    "Latitude": 38.78761076893929
+  },
+  {
+    "MapSectionId": 136,
+    "name": "OB- 311",
+    "Longitude": 26.929770330635034,
+    "Latitude": 38.78768240178298
+  },
+  {
+    "MapSectionId": 137,
+    "name": "OB- 312",
+    "Longitude": 26.929989497398456,
+    "Latitude": 38.78802590067851
+  },
+  {
+    "MapSectionId": 138,
+    "name": "OB- 313",
+    "Longitude": 26.930367146570372,
+    "Latitude": 38.78849613165376
+  },
+  {
+    "MapSectionId": 139,
+    "name": "OB- 314",
+    "Longitude": 26.92991170089904,
+    "Latitude": 38.78855171849176
+  },
+  {
+    "MapSectionId": 140,
+    "name": "OB- 315",
+    "Longitude": 26.93077469631537,
+    "Latitude": 38.78889089412544
+  },
+  {
+    "MapSectionId": 141,
+    "name": "OB- 317",
+    "Longitude": 26.93097016014599,
+    "Latitude": 38.789100168538795
+  },
+  {
+    "MapSectionId": 142,
+    "name": "OB- 318",
+    "Longitude": 26.931209727947767,
+    "Latitude": 38.7894930096905
+  },
+  {
+    "MapSectionId": 143,
+    "name": "OB- 319",
+    "Longitude": 26.931022217125136,
+    "Latitude": 38.789907776134775
+  },
+  {
+    "MapSectionId": 144,
+    "name": "OB- 320",
+    "Longitude": 26.931718361228278,
+    "Latitude": 38.79011644212375
+  },
+  {
+    "MapSectionId": 145,
+    "name": "OB- 321",
+    "Longitude": 26.931737298719863,
+    "Latitude": 38.790139861602384
+  },
+  {
+    "MapSectionId": 146,
+    "name": "OB- 322",
+    "Longitude": 26.932067433031776,
+    "Latitude": 38.79062395262788
+  },
+  {
+    "MapSectionId": 147,
+    "name": "OB- 323",
+    "Longitude": 26.932258219811807,
+    "Latitude": 38.790839392447744
+  },
+  {
+    "MapSectionId": 148,
+    "name": "OB- 324",
+    "Longitude": 26.932539476870843,
+    "Latitude": 38.791145672832556
+  },
+  {
+    "MapSectionId": 149,
+    "name": "OB- 325",
+    "Longitude": 26.932751203949504,
+    "Latitude": 38.791438332225646
+  },
+  {
+    "MapSectionId": 150,
+    "name": "OB- 326",
+    "Longitude": 26.93232411647526,
+    "Latitude": 38.79164837575112
+  },
+  {
+    "MapSectionId": 151,
+    "name": "OB- 327",
+    "Longitude": 26.932962741838647,
+    "Latitude": 38.79168825768011
+  },
+  {
+    "MapSectionId": 152,
+    "name": "OB- 328",
+    "Longitude": 26.933340234714752,
+    "Latitude": 38.79206679981376
+  },
+  {
+    "MapSectionId": 153,
+    "name": "OB- 330",
+    "Longitude": 26.93375145961868,
+    "Latitude": 38.79259227259796
+  },
+  {
+    "MapSectionId": 154,
+    "name": "OB- 331",
+    "Longitude": 26.934079589607816,
+    "Latitude": 38.79295574288415
+  },
+  {
+    "MapSectionId": 155,
+    "name": "OB- 332",
+    "Longitude": 26.934413300836106,
+    "Latitude": 38.79338412415501
+  },
+  {
+    "MapSectionId": 156,
+    "name": "OB- 333",
+    "Longitude": 26.9346410257277,
+    "Latitude": 38.79362463955617
+  },
+  {
+    "MapSectionId": 157,
+    "name": "OB- 334",
+    "Longitude": 26.934684574341127,
+    "Latitude": 38.793761228021644
+  },
+  {
+    "MapSectionId": 158,
+    "name": "OB- 335",
+    "Longitude": 26.934919519341655,
+    "Latitude": 38.79392793378591
+  },
+  {
+    "MapSectionId": 159,
+    "name": "OB- 338",
+    "Longitude": 26.935161536807612,
+    "Latitude": 38.793662821457026
+  },
+  {
+    "MapSectionId": 160,
+    "name": "OB- 337",
+    "Longitude": 26.935363282103097,
+    "Latitude": 38.79396637145422
+  },
+  {
+    "MapSectionId": 161,
+    "name": "OB- 336",
+    "Longitude": 26.935127607025294,
+    "Latitude": 38.794449631505735
+  },
+  {
+    "MapSectionId": 162,
+    "name": "OB- 340",
+    "Longitude": 26.935705668527554,
+    "Latitude": 38.79515526097095
+  },
+  {
+    "MapSectionId": 163,
+    "name": "OB- 341",
+    "Longitude": 26.93656316227248,
+    "Latitude": 38.79619938893676
+  },
+  {
+    "MapSectionId": 164,
+    "name": "OB- 601",
+    "Longitude": 26.928919088290336,
+    "Latitude": 38.78582130946674
+  },
+  {
+    "MapSectionId": 165,
+    "name": "OB- 602",
+    "Longitude": 26.929408748456936,
+    "Latitude": 38.78561678221546
+  },
+  {
+    "MapSectionId": 166,
+    "name": "OB- 603",
+    "Longitude": 26.93019262141279,
+    "Latitude": 38.78519231583575
+  },
+  {
+    "MapSectionId": 167,
+    "name": "OB- 604",
+    "Longitude": 26.93106323424099,
+    "Latitude": 38.78478471125629
+  },
+  {
+    "MapSectionId": 168,
+    "name": "OB- 605",
+    "Longitude": 26.931868826951245,
+    "Latitude": 38.78436597026603
+  },
+  {
+    "MapSectionId": 169,
+    "name": "OB- 623",
+    "Longitude": 26.93221172722049,
+    "Latitude": 38.78419777284808
+  },
+  {
+    "MapSectionId": 170,
+    "name": "OB- 622",
+    "Longitude": 26.933747620274037,
+    "Latitude": 38.78350806312542
+  },
+  {
+    "MapSectionId": 171,
+    "name": "OB- 621",
+    "Longitude": 26.93484827347236,
+    "Latitude": 38.78296603396171
+  },
+  {
+    "MapSectionId": 172,
+    "name": "OB- 606",
+    "Longitude": 26.931628783359212,
+    "Latitude": 38.783910335753596
+  },
+  {
+    "MapSectionId": 173,
+    "name": "OB- 607",
+    "Longitude": 26.93112720345824,
+    "Latitude": 38.78337014969329
+  },
+  {
+    "MapSectionId": 174,
+    "name": "OB- 609",
+    "Longitude": 26.930521267555836,
+    "Latitude": 38.782541416240946
+  },
+  {
+    "MapSectionId": 175,
+    "name": "OB- 638",
+    "Longitude": 26.930260665018064,
+    "Latitude": 38.78332926411457
+  },
+  {
+    "MapSectionId": 176,
+    "name": "OB- 639",
+    "Longitude": 26.929648728805418,
+    "Latitude": 38.7836507431247
+  },
+  {
+    "MapSectionId": 177,
+    "name": "OB- 610",
+    "Longitude": 26.929874881240305,
+    "Latitude": 38.78189946408734
+  },
+  {
+    "MapSectionId": 178,
+    "name": "OB- 608",
+    "Longitude": 26.930019883010864,
+    "Latitude": 38.781741044096094
+  },
+  {
+    "MapSectionId": 179,
+    "name": "OB- 611",
+    "Longitude": 26.929706270377654,
+    "Latitude": 38.781617132588664
+  },
+  {
+    "MapSectionId": 180,
+    "name": "OB- 612",
+    "Longitude": 26.92950681080616,
+    "Latitude": 38.78144132574847
+  },
+  {
+    "MapSectionId": 181,
+    "name": "OB- 613",
+    "Longitude": 26.929113673627985,
+    "Latitude": 38.78129291084203
+  },
+  {
+    "MapSectionId": 182,
+    "name": "OB- 614",
+    "Longitude": 26.92882329257087,
+    "Latitude": 38.78103055839915
+  },
+  {
+    "MapSectionId": 183,
+    "name": "OB- 615",
+    "Longitude": 26.92877364012042,
+    "Latitude": 38.78083088741173
+  },
+  {
+    "MapSectionId": 184,
+    "name": "OB- 625",
+    "Longitude": 26.928330295820732,
+    "Latitude": 38.78107499794517
+  },
+  {
+    "MapSectionId": 185,
+    "name": "OB- 626",
+    "Longitude": 26.927538148447315,
+    "Latitude": 38.78145963038866
+  },
+  {
+    "MapSectionId": 186,
+    "name": "OB- 629",
+    "Longitude": 26.927249326958954,
+    "Latitude": 38.78140129118802
+  },
+  {
+    "MapSectionId": 187,
+    "name": "OB- 630",
+    "Longitude": 26.926902833259508,
+    "Latitude": 38.781159214095354
+  },
+  {
+    "MapSectionId": 188,
+    "name": "OB- 631",
+    "Longitude": 26.926141320855546,
+    "Latitude": 38.78061689295711
+  },
+  {
+    "MapSectionId": 189,
+    "name": "OB- 632",
+    "Longitude": 26.9255861363867,
+    "Latitude": 38.78024859400669
+  },
+  {
+    "MapSectionId": 190,
+    "name": "OB- 633",
+    "Longitude": 26.925478040583112,
+    "Latitude": 38.77979968817705
+  },
+  {
+    "MapSectionId": 191,
+    "name": "OB- 634",
+    "Longitude": 26.925450696463237,
+    "Latitude": 38.77952607034788
+  },
+  {
+    "MapSectionId": 192,
+    "name": "OB- 635",
+    "Longitude": 26.925323359647102,
+    "Latitude": 38.77916230163472
+  },
+  {
+    "MapSectionId": 193,
+    "name": "OB- 636",
+    "Longitude": 26.92508689476107,
+    "Latitude": 38.77916504684724
+  },
+  {
+    "MapSectionId": 194,
+    "name": "OB- 627",
+    "Longitude": 26.927017860064254,
+    "Latitude": 38.78193509729016
+  },
+  {
+    "MapSectionId": 195,
+    "name": "OB- 628",
+    "Longitude": 26.92632690353164,
+    "Latitude": 38.78227668399655
+  },
+  {
+    "MapSectionId": 196,
+    "name": "OB- 637",
+    "Longitude": 26.923122105946714,
+    "Latitude": 38.78335206300587
+  },
+  {
+    "MapSectionId": 197,
+    "name": "OB- VCM ACN BACA SAHASI",
+    "Longitude": 26.924738338576258,
+    "Latitude": 38.786618687264784
+  },
+  {
+    "MapSectionId": 198,
+    "name": "OB- KARADOLUM",
+    "Longitude": 26.943196815469154,
+    "Latitude": 38.786284084311056
+  },
+  {
+    "MapSectionId": 199,
+    "name": "OB- 100",
+    "Longitude": 26.937173795115886,
+    "Latitude": 38.78488569958682
+  },
+  {
+    "MapSectionId": 200,
+    "name": "OB- 200",
+    "Longitude": 26.93651862412237,
+    "Latitude": 38.78852592890237
+  },
+  {
+    "MapSectionId": 201,
+    "name": "OB- 300",
+    "Longitude": 26.932386776942007,
+    "Latitude": 38.79091935291791
+  },
+  {
+    "MapSectionId": 202,
+    "name": "OB- 400",
+    "Longitude": 26.94066597734214,
+    "Latitude": 38.786828284815655
+  },
+  {
+    "MapSectionId": 203,
+    "name": "OB- 500",
+    "Longitude": 26.930759112167816,
+    "Latitude": 38.791642429068006
+  },
+  {
+    "MapSectionId": 204,
+    "name": "OB- 700",
+    "Longitude": 26.947427402537592,
+    "Latitude": 38.79406081200371
+  },
+  {
+    "MapSectionId": 205,
+    "name": "OB- 800",
+    "Longitude": 26.926725181760094,
+    "Latitude": 38.78898146299555
+  },
+  {
+    "MapSectionId": 206,
+    "name": "OB- 900",
+    "Longitude": 26.939405143573325,
+    "Latitude": 38.78856319029447
+  },
+  {
+    "MapSectionId": 207,
+    "name": "OB- HEPTAN HEKZAN",
+    "Longitude": 26.93540648767713,
+    "Latitude": 38.79352490538264
+  }
+]

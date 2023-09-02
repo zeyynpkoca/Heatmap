@@ -1,18 +1,20 @@
 import React from 'react';
 import { GoogleMap, useJsApiLoader, Marker, OverlayView, HeatmapLayer } from '@react-google-maps/api';
 //import HeatmapLayer from "react-google-maps/lib/components/visualization/HeatmapLayer";
-import MapSectionId from './MapSectionId.json';
+import yeni_veri from './yeni_veri.json';
+console.log(yeni_veri)
+// import convertCoordinates from dataConverter.js
 
-MapSectionId.forEach(item => {
-  const latRad = 2 * Math.atan(Math.exp(item.Latitude / 6378137)) - Math.PI / 2;
-  const latDeg = (latRad * 180) / Math.PI;
-  const lonDeg = (item.Longitude / 20037508.34) * 180;
+// MapSectionId.forEach(item => {
+//   const latRad = 2 * Math.atan(Math.exp(item.Latitude / 6378137)) - Math.PI / 2;
+//   const latDeg = (latRad * 180) / Math.PI;
+//   const lonDeg = (item.Longitude / 20037508.34) * 180;
 
-  item.Latitude = latDeg;
-  item.Longitude = lonDeg;
-});
+//   item.Latitude = latDeg;
+//   item.Longitude = lonDeg;
+// });
 
-console.log(MapSectionId);
+// console.log(MapSectionId);
 
 
 const containerStyle = {
@@ -47,35 +49,39 @@ function DynamicHeatmap() {
 
 
   // Calculating job count on pipelines
-  const systemStatusCounts = {}; // Her MapSectionId için sayaçları depolayacak nesne
-  MapSectionId.forEach(pipe => {
-        if (!systemStatusCounts[pipe.MapSectionId]) {
-          systemStatusCounts[pipe.MapSectionId] = 0;
-        }
-        systemStatusCounts[pipe.MapSectionId]++;
-      }
-    );
-    const heatmapData = 
-    [
-      new window.google.maps.LatLng(38.788542, 26.939462),
-    ]
+  // const systemStatusCounts = {}; // Her MapSectionId için sayaçları depolayacak nesne
+  // MapSectionId.forEach(pipe => {
+  //       if (!systemStatusCounts[pipe.MapSectionId]) {
+  //         systemStatusCounts[pipe.MapSectionId] = 0;
+  //       }
+  //       systemStatusCounts[pipe.MapSectionId]++;
+  //     }
+  //   );
+  const heatmapData = []
+  for (const item of yeni_veri) {
+    heatmapData.push(new window.google.maps.LatLng(item.Latitude, item.Longitude))
+  }
+  // const heatmapData = 
+  // [
+  //   new window.google.maps.LatLng(yeni_veri.Latitude, yeni_veri.Longitude)
+  // ]
   // We make setup of pipelines using pipeline data(lat lng and name) through heat map
-  const markers = MapSectionId.map(item => ({
-    position: {
-      lat: item.Latitude,
-      lng: item.Longitude
-    },
-    name: item.name,
-    size: item.Size,
-    systemStatusId: item.SystemStatusId,
-    mapSectionId: item.MapSectionId
+  // const markers = MapSectionId.map(item => ({
+  //   position: {
+  //     lat: item.Latitude,
+  //     lng: item.Longitude
+  //   },
+  //   name: item.name,
+  //   size: item.Size,
+  //   systemStatusId: item.SystemStatusId,
+  //   mapSectionId: item.MapSectionId
 
-  }));
-  const markerOptions = {
-    scaledSize: new window.google.maps.Size(40, 40), // Marker boyutunu büyütme
-    labelOrigin: new window.google.maps.Point(20, 55), // Label konumu
-    labelClass: "custom-label" // Label için özel sınıf
-  };
+  // }));
+  // const markerOptions = {
+  //   scaledSize: new window.google.maps.Size(40, 40), // Marker boyutunu büyütme
+  //   labelOrigin: new window.google.maps.Point(20, 55), // Label konumu
+  //   labelClass: "custom-label" // Label için özel sınıf
+  // };
   return (
     <GoogleMap
       heatmapLibrary={true}    
@@ -147,3 +153,4 @@ function DynamicHeatmap() {
 }
 
 export default React.memo(DynamicHeatmap);
+
